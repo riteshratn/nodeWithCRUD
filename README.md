@@ -10,7 +10,7 @@ create a http server that provides APIs for an Ecommerce platform like Amazon. D
 2. Store the user in the database
 3. Later validate the password with encrypted password stored in database
 4. Create other APIs when required like confirm mail, logout.
-5. add CRUD opetation in your app.
+5. Provide CRUD opetation for various entities in your app.
 6. Use express validator technique to validate request bodies.
-7. move sensitive information to .env file and create .env.sample for git.
+7. Move sensitive information to .env file and create .env.sample for git.
    
